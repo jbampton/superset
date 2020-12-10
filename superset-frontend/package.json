@@ -85,7 +85,7 @@
     "@superset-ui/legacy-plugin-chart-sankey-loop": "^0.15.13",
     "@superset-ui/legacy-plugin-chart-sunburst": "^0.15.13",
     "@superset-ui/legacy-plugin-chart-treemap": "^0.15.13",
-    "@superset-ui/legacy-plugin-chart-world-map": "^0.15.13",
+    "@superset-ui/legacy-plugin-chart-world-map": "^0.15.17",
     "@superset-ui/legacy-preset-chart-big-number": "^0.15.13",
     "@superset-ui/legacy-preset-chart-deckgl": "^0.3.1",
     "@superset-ui/legacy-preset-chart-nvd3": "^0.15.16",
